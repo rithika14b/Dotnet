@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\vs\\Dotnetbasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FDF2E5-A05B-42B2-AE55-0D4735F4C4C3}|Dotnetbasic\\Dotnetbasic.csproj|c:\\rithi\\dotnet\\vs\\dotnetbasic\\dotnetbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FDF2E5-A05B-42B2-AE55-0D4735F4C4C3}|Dotnetbasic\\Dotnetbasic.csproj|solutionrelative:dotnetbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\vs\\Dotnetbasic\\Dotnetbasic\\Program.cs",
+              "RelativeDocumentMoniker": "Dotnetbasic\\Program.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\vs\\Dotnetbasic\\Dotnetbasic\\Program.cs*",
+              "RelativeToolTip": "Dotnetbasic\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:07:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
