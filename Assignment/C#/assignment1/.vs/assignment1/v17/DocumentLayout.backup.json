@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\C#\\assignment1\\assignment1\\Program.cs",
               "RelativeDocumentMoniker": "assignment1\\Program.cs",
-              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\assignment1\\assignment1\\Program.cs*",
-              "RelativeToolTip": "assignment1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\assignment1\\assignment1\\Program.cs",
+              "RelativeToolTip": "assignment1\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T15:54:41.445Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
