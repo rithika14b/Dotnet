@@ -1,0 +1,8 @@
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+C:\Rithi\Dotnet\Assessment\c#\Assessment1\Assessment1\obj\Debug\Assessment1.exe.config
