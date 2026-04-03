@@ -1,0 +1,7 @@
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Rithi\Dotnet\Assessment\c#\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

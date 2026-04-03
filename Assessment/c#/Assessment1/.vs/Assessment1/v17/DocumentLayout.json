@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\Assessment\\c#\\Assessment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|C:\\Rithi\\Dotnet\\Assessment\\c#\\Assessment1\\assessment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|c:\\rithi\\dotnet\\assessment\\c#\\assessment1\\assessment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|c:\\rithi\\dotnet\\assessment\\c#\\assessment1\\assessment1\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|C:\\Rithi\\Dotnet\\Assessment\\c#\\Assessment1\\assessment1\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04AB50DD-7467-4FB0-BEA0-239F9D7B3102}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Assessment1\\EmployeeDetail.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T06:00:51.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T06:00:51.229Z"
             },
             {
               "$type": "Document",
