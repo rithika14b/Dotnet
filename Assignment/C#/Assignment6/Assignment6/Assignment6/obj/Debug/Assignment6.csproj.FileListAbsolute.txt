@@ -1,0 +1,7 @@
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
