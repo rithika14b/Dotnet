@@ -5,3 +5,4 @@ C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assi
 C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
 C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
 C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Rithi\Dotnet\Assignment\C#\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe.config
