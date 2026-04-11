@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\assignment7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|c:\\rithi\\dotnet\\assignment\\c#\\assignment7\\assignment7\\assignment7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE75CC2-F3F0-4177-944E-451060C6EA8B}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791BC6E-71D4-4E10-863E-D7256ADC3007}|TravelConcessionLibrary\\TravelConcessionLibrary.csproj|c:\\rithi\\dotnet\\assignment\\c#\\assignment7\\assignment7\\travelconcessionlibrary\\concession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791BC6E-71D4-4E10-863E-D7256ADC3007}|TravelConcessionLibrary\\TravelConcessionLibrary.csproj|solutionrelative:travelconcessionlibrary\\concession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 146,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Concession.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\TravelConcessionLibrary\\Concession.cs",
+              "RelativeDocumentMoniker": "TravelConcessionLibrary\\Concession.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\TravelConcessionLibrary\\Concession.cs",
+              "RelativeToolTip": "TravelConcessionLibrary\\Concession.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:07:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program4.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\program4.cs",
+              "RelativeDocumentMoniker": "Assignment7\\program4.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\program4.cs",
+              "RelativeToolTip": "Assignment7\\program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:59:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\employee.cs",
+              "RelativeDocumentMoniker": "Assignment7\\employee.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\employee.cs",
+              "RelativeToolTip": "Assignment7\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:47:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment7\\Program.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\C#\\Assignment7\\Assignment7\\Assignment7\\Program.cs",
+              "RelativeToolTip": "Assignment7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T06:54:40.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

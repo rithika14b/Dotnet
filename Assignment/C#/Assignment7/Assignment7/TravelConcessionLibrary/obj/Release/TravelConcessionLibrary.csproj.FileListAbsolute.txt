@@ -1,0 +1,6 @@
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\bin\Release\TravelConcessionLibrary.dll
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\bin\Release\TravelConcessionLibrary.pdb
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\obj\Release\TravelConcessionLibrary.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\obj\Release\TravelConcessionLibrary.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\obj\Release\TravelConcessionLibrary.dll
+C:\Rithi\Dotnet\Assignment\C#\Assignment7\Assignment7\TravelConcessionLibrary\obj\Release\TravelConcessionLibrary.pdb
