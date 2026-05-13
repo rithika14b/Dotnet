@@ -1,0 +1,8 @@
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\obj\Debug\assessment.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\obj\Debug\assessment.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\bin\Debug\question1.exe.config
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\bin\Debug\question1.exe
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\bin\Debug\question1.pdb
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\obj\Debug\question1.exe.config
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\obj\Debug\question1.exe
+C:\Rithi\Dotnet\Assessment\Ado\question1\question1\obj\Debug\question1.pdb
