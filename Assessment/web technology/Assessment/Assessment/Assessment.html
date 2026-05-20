@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Demo Programs</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- 1. Multiplication and Division -->
+    <section>
+        <h3>1. Multiplication and Division</h3>
+        1st Number :<input type="number" id="num1"><br><br>
+        2nd Number :<input type="number" id="num2"><br><br>
+
+        <button onclick="multiply()">Multiply</button>
+        <button onclick="divide()">Divide</button>
+
+        <h5 id="result"></h5>
+    </section>
+
+    <!-- 2. Odd or Even -->
+    <section>
+        <h3>2 .Odd or Even</h3>
+        <button onclick="OddEven()">Click for Result</button>
+        <div id="oddEvenResult" class="box"></div>
+    </section>
+
+    <!-- 3. Click Event Listener -->
+    <section>
+        <h3>3. Button Click Event</h3>
+        <button id="click">Click Me</button>
+    </section>
+
+    <!-- 4. Hide Odd Table Rows -->
+    <section>
+        <h3>4.Hide Rows</h3>
+
+        <table id="Table">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Rithi</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>mahesh</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Priya</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Anu</td>
+            </tr>
+        </table>
+
+        <br>
+
+        <button id="hideRows">HideRows</button>
+    </section>
+
+    <!-- 5. h1 inside div -->
+    <section>
+        <h3>5. Apply in Background </h3>
+
+        <div>
+            <h1>Heading 1</h1>
+        </div>
+
+        <div>
+            <h2>Heading 2</h2>
+        </div>
+
+        <button id="apply">Apply Background</button>
+    </section>
+
+    <!-- 6. Get Single Element -->
+    <section>
+        <h3>6.Select Single Element</h3>
+
+        <ul id="course">
+            <li>CSHARP</li>
+            <li>SQL</li>
+            <li>ADO</li>
+        </ul>
+        Index Number :<input type="number" 
+                                   id="indexValue"
+                                   placeholder="0,1,2">
+        <button id="singleElement">Get Element</button>
+        <h5 id="Result"></h5>
+    </section>
+
+    <!-- 7. Add Index -->
+    <section>
+        <h3>7. Add Index</h3>
+
+        <ul id="index">
+            <li>CSHARP</li>
+            <li>SQL</li>
+            <li>ADO</li>
+        </ul>
+        <button id="addIndex">Add Index</button>
+    </section>
+
+    <!-- 8. Append Paragraph -->
+    <section>
+        <h3>8. Append Paragraph</h3>
+
+        <input type="text" id="paragraph" placeholder="Type something">
+    </section>
+
+    <!--function for all -->
+
+    <!--1. Multiplication and Division--> 
+    <script>
+        {
+            function multiply() {
+                num1 = document.getElementById("num1").value;
+                num2 = document.getElementById("num2").value;
+
+                result = num1 * num2;
+                document.getElementById("result").innerHTML = "Multiplication Result : " + result;
+            }
+            function divide() {
+                num1 = document.getElementById("num1").value;
+                num2 = document.getElementById("num2").value;
+
+                result = num1 / num2;
+                document.getElementById("result").innerHTML = "Division Result : " + result;
+            }
+        }
+
+       //2. Odd or Even 
+        function OddEven() {
+            output = "";
+            for (let i = 0; i <= 15; i++) {
+                if (i % 2 == 0) {
+                    output += i + " is even <br>";
+                }
+                else {
+                    output += i + " is odd <br>";
+                }
+            }
+            document.getElementById("oddEvenResult").innerHTML = output;
+        }
+
+
+        // 3. Click Event Listener
+        document.getElementById("click")
+            .addEventListener("click", function () {
+                alert("Button Clicked!");
+            });
+
+
+        //4. Hide Rows
+        $("#hideRows").click(function () {
+            $("#Table tr:odd").hide();
+        });
+
+
+        // 5. Apply Background 
+        $("#apply").click(function () {
+            $("div h1").css("background", "red");
+        });
+
+
+        // 6. Get 1 Element
+        $("#singleElement").click(function () {
+            index = $("#indexValue").val();
+            Value= $("#course li").eq(index).text();
+            $("#Result").text("Selected Element : " + Value);
+        });
+
+
+        // 7. Add Index
+        $("#addIndex").click(function () {
+            $("#index li").each(function (index) {
+                $(this).prepend(index + " ");
+            });
+        });
+
+
+        // 8. Append Paragraph 
+        $("#paragraph").change(function () {
+            $("body").append("<p>value changed!</p>");
+        });
+
+    </script>
+
+</body>
+</html>
