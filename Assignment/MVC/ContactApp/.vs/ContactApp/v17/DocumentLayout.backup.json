@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\controllers\\employeecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\controllers\\employeecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\MvcAsyncDemo.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\migrations\\202605291557294_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\MvcAsyncDemo.csproj|solutionrelative:contactapp\\migrations\\202605291557294_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\MvcAsyncDemo.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\MvcAsyncDemo.csproj|solutionrelative:contactapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\models\\employeecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\models\\employeecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\customvalidation\\numericonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\customvalidation\\numericonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\repositories\\iemployeecontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\repositories\\iemployeecontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\repositories\\employeecontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\repositories\\employeecontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\views\\employeecontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\views\\employeecontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|c:\\rithi\\dotnet\\assignment\\mvc\\contactapp\\contactapp\\views\\employeecontact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B4F1EA-71B9-434A-A992-19F3A8373651}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\views\\employeecontact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202605291557294_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Migrations\\202605291557294_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\202605291557294_InitialCreate.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Migrations\\202605291557294_InitialCreate.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\202605291557294_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:57:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:56:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Web.config",
+              "RelativeDocumentMoniker": "ContactApp\\Web.config",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Web.config",
+              "RelativeToolTip": "ContactApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-29T15:37:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Views\\EmployeeContact\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactApp\\Views\\EmployeeContact\\Create.cshtml",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Views\\EmployeeContact\\Create.cshtml",
+              "RelativeToolTip": "ContactApp\\Views\\EmployeeContact\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T15:37:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Views\\EmployeeContact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactApp\\Views\\EmployeeContact\\Index.cshtml",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Views\\EmployeeContact\\Index.cshtml",
+              "RelativeToolTip": "ContactApp\\Views\\EmployeeContact\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T15:35:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeContactController.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Controllers\\EmployeeContactController.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Controllers\\EmployeeContactController.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Controllers\\EmployeeContactController.cs",
+              "RelativeToolTip": "ContactApp\\Controllers\\EmployeeContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:33:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeContactRepository.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Repositories\\EmployeeContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Repositories\\EmployeeContactRepository.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Repositories\\EmployeeContactRepository.cs",
+              "RelativeToolTip": "ContactApp\\Repositories\\EmployeeContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:32:48.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeContactRepository.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Repositories\\IEmployeeContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Repositories\\IEmployeeContactRepository.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Repositories\\IEmployeeContactRepository.cs",
+              "RelativeToolTip": "ContactApp\\Repositories\\IEmployeeContactRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:31:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumericOnlyAttribute.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\CustomValidation\\NumericOnlyAttribute.cs",
+              "RelativeDocumentMoniker": "ContactApp\\CustomValidation\\NumericOnlyAttribute.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\CustomValidation\\NumericOnlyAttribute.cs",
+              "RelativeToolTip": "ContactApp\\CustomValidation\\NumericOnlyAttribute.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:30:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "ContactApp\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:27:35.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeContact.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Models\\EmployeeContact.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Models\\EmployeeContact.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assignment\\MVC\\ContactApp\\ContactApp\\Models\\EmployeeContact.cs",
+              "RelativeToolTip": "ContactApp\\Models\\EmployeeContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:26:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
