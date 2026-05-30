@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\trainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\trainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\rithi\\dotnet\\mini_project\\trainreservationsystem\\trainreservationsystem\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF726C-C349-45A7-A767-766A1285FE63}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserOperations.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\UserOperations.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\UserOperations.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\UserOperations.cs",
+              "RelativeToolTip": "TrainReservationSystem\\UserOperations.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAQwCQBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T06:54:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\UserMenu.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\UserMenu.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\UserMenu.cs",
+              "RelativeToolTip": "TrainReservationSystem\\UserMenu.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T06:51:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\DBConnection.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DBConnection.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\DBConnection.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:50:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainOperations.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\TrainOperations.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\TrainOperations.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\TrainOperations.cs",
+              "RelativeToolTip": "TrainReservationSystem\\TrainOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:45:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\AdminMenu.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\AdminMenu.cs",
+              "RelativeToolTip": "TrainReservationSystem\\AdminMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:44:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\mini_project\\TrainReservationSystem\\TrainReservationSystem\\Program.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:23:02.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

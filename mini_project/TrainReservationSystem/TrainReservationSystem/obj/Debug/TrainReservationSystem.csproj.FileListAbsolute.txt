@@ -1,0 +1,8 @@
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\bin\Debug\TrainReservationSystem.exe.config
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\bin\Debug\TrainReservationSystem.exe
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\bin\Debug\TrainReservationSystem.pdb
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.csproj.CoreCompileInputs.cache
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.exe
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.pdb
+C:\Rithi\Dotnet\mini_project\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.exe.config
