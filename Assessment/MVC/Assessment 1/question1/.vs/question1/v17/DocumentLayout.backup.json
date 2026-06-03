@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|c:\\rithi\\dotnet\\assessment\\mvc\\assessment 1\\question1\\question1\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|solutionrelative:question1\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\views\\code\\ordercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|solutionrelative:question1\\views\\code\\ordercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|solutionrelative:question1\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2C906E9C-E03F-48D4-B794-F9A0290F53AE}|question1\\question1.csproj|solutionrelative:question1\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderCustomer.cshtml",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Views\\Code\\OrderCustomer.cshtml",
+              "RelativeDocumentMoniker": "question1\\Views\\Code\\OrderCustomer.cshtml",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Views\\Code\\OrderCustomer.cshtml",
+              "RelativeToolTip": "question1\\Views\\Code\\OrderCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:54:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GermanyCustomers.cshtml",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeDocumentMoniker": "question1\\Views\\Code\\GermanyCustomers.cshtml",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeToolTip": "question1\\Views\\Code\\GermanyCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:53:12.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "question1\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "question1\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:49:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Models\\NorthwindModel.edmx",
+              "RelativeDocumentMoniker": "question1\\Models\\NorthwindModel.edmx",
+              "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\question1\\question1\\Models\\NorthwindModel.edmx [Diagram1]",
+              "RelativeToolTip": "question1\\Models\\NorthwindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-03T04:47:55.337Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

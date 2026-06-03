@@ -1,0 +1,35 @@
+﻿@model question1.Models.Customer
+@{
+    ViewBag.Title = "Customer Details";
+}
+
+<h2>Customer Details for Order ID = 10248</h2>
+
+<table border="1" cellpadding="5">
+
+    <tr>
+        <td><b>Customer ID</b></td>
+        <td>@Model.CustomerID</td>
+    </tr>
+
+    <tr>
+        <td><b>Company Name</b></td>
+        <td>@Model.CompanyName</td>
+    </tr>
+
+    <tr>
+        <td><b>Contact Name</b></td>
+        <td>@Model.ContactName</td>
+    </tr>
+
+    <tr>
+        <td><b>City</b></td>
+        <td>@Model.City</td>
+    </tr>
+
+    <tr>
+        <td><b>Country</b></td>
+        <td>@Model.Country</td>
+    </tr>
+
+</table>

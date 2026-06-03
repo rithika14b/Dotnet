@@ -1,0 +1,2 @@
+C:\Rithi\Dotnet\Assessment\MVC\Assessment 1\question1\question1\obj\Debug\question1.csproj.AssemblyReference.cache
+C:\Rithi\Dotnet\Assessment\MVC\Assessment 1\question1\question1\obj\Debug\question1.csproj.CoreCompileInputs.cache
