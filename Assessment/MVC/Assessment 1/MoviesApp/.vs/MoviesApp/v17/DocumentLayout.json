@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|c:\\rithi\\dotnet\\assessment\\mvc\\assessment 1\\moviesapp\\moviesapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|c:\\rithi\\dotnet\\assessment\\mvc\\assessment 1\\moviesapp\\moviesapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\data\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\data\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00BBEA53-2C8B-43FB-9298-624B31E92771}|MoviesApp\\MoviesApp.csproj|C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\moviesapp\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MoviesDbContext.cs",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Data\\MoviesDbContext.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Data\\MoviesDbContext.cs",
@@ -58,11 +58,12 @@
               "RelativeToolTip": "MoviesApp\\Data\\MoviesDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T05:46:12.676Z"
+              "WhenOpened": "2026-06-03T05:46:12.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Views\\Movies\\Edit.cshtml",
               "RelativeDocumentMoniker": "MoviesApp\\Views\\Movies\\Edit.cshtml",
@@ -70,32 +71,34 @@
               "RelativeToolTip": "MoviesApp\\Views\\Movies\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:43:28.224Z"
+              "WhenOpened": "2026-06-03T05:43:28.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "MoviesApp\\Views\\Movies\\Create.cshtml",
               "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "MoviesApp\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-03T05:42:34.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "MoviesApp\\Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "MoviesApp\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:41:53.242Z"
+              "WhenOpened": "2026-06-03T05:41:53.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -105,9 +108,10 @@
               "RelativeDocumentMoniker": "MoviesApp\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MoviesApp\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T05:39:19.463Z"
+              "WhenOpened": "2026-06-03T05:39:19.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Models\\Movie.cs",
@@ -147,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Rithi\\Dotnet\\Assessment\\MVC\\Assessment 1\\MoviesApp\\MoviesApp\\Web.config",
               "RelativeDocumentMoniker": "MoviesApp\\Web.config",
